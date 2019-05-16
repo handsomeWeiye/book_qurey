@@ -1,0 +1,7 @@
+
+
+SQLALCHEMY_DATABASE_URI = 'sqlite:///c:/sqlite/data4.db'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+DEBUG_TB_INTERCEPT_REDIRECTS = False
+
+SECRET_KEY = "jfkdjfkdkjf"
